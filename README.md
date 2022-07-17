@@ -5,29 +5,23 @@ para casas e escritórios. Os clientes podem comprar mouses, monitores, teclados
 computadores, laptops, cabos HDMI, fones de ouvido, cameras webcam, entre
 outros, através de um site online e recebem os produtos no conforto de suas casas.
 <p>
-Os produtos não são vendidos somente no Brasil, a Eletronic House está presente
-em diversos países da Europa e da América do Norte.
-O Diretor de Produtos Global pediu ao Head de Design que desenvolvesse uma
-nova forma de finalizar a compra com cartão de crédito, sem a necessidade do
-cliente preencher manualmente todas as informações do cartão e que funcionasse
-em todos os países.
+O time de UX designers vem trabalhando em uma nova página de vendas, com o
+objetivo de aumentar a taxa de conversão de um produto da loja, um teclado 
+bluetooth. O product manager (gerente de produto) disse que a taxa de conversão
+da página atual é de 13% em média, no último ano.
 <p>
-Depois de meses desenvolvendo esse dispositivo, o time de Desenvolvimento
-Backend entregou uma solução de pagamentos, na qual 90% das informações do
-formulário eram preenchido automaticamente.
- <p>
-O Head de Designer gostaria de medir a efetividade do novo dispositivo de
-preenchimento automático dos dados do cartão de crédito na página de vendas e
-reportar os resultados ao Diretor de Produtos Global, para concluir se a nova forma
-de pagamento é realmente melhor do que a antiga.
+O objetivo do product manager é aumentar a taxa de conversão em 2%, ou seja, a
+nova página de vendas, desenvolvida pelo time de UX, seria um sucesso se a sua
+taxa de conversão fosse de 15%.
+O teclado bluetooth possui um preço de venda de R$ 4.500,00 à vista ou parcelado
+em 12% sem juros no cartão de crédito.
 <p>
-As duas páginas foram colocadas no ar e durante alguns meses e o time de Front-
-End desenvolveu uma automação que atribui um rótulo para cada cliente,
-mostrando qual a página de vendas aquele determinado cliente estava visualizando.
-Todos esses dados foram armazenados em um banco de dados e podem ser
-acessados pelos times da Electronic House.
+Antes de trocar a página de vendas antiga pela nova, o product manager gostaria
+de testar a efetividade da nova página em um grupo menor de clientes, a fim de
+correr menos riscos de queda da conversão, caso a página nova mostre uma
+conversão pior do que a página atual.
 <p>
-<b>Qual a melhor forma de pagamento: Preenchimento Manual ou Automático do
-  formulário de dados do cartão de crédito?</b>
+<b>A conversão da nova página é realmente melhor do a conversão da página
+atual??</b>
   <p>
 Crédito: <a href="https://www.comunidadedatascience.com/">Comunidade DataScience</a>

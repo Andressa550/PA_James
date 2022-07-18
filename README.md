@@ -25,3 +25,4 @@ conversão pior do que a página atual.
 atual??</b>
   <p>
 Crédito: <a href="https://www.comunidadedatascience.com/">Comunidade DataScience</a>
+Dados: <a href="https://www.kaggle.com/datasets/zhangluyuan/ab-testing?resource=download"> Kaggle </a>
